@@ -7,6 +7,5 @@ If you think my projects are helpful to you, you can help the author buy a cup o
 
 如果我的项目对您有帮助的话，那就请我喝杯咖啡吧！
 
-![alipay](/sponsors/alipay.png)
-
-![weixin](/sponsors/weixin.jpeg)
+<img src="/sponsors/alipay.png" width = "200" height="300" alt="Alipay" />
+<img src="/sponsors/weixin.jpeg" width = "200" height="300" alt="WeiXin" />
