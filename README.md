@@ -1,19 +1,12 @@
 ### Hi there 👋
 
-<!--
-**shixiongfei/shixiongfei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![ShiXiongfei's github stats](https://github-readme-stats.vercel.app/api?username=shixiongfei&count_private=true&show_icons=true&theme=default)](https://shixiongfei.com)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shixiongfei&layout=compact&langs_count=8&theme=default)](https://shixiongfei.com)
+
+If you think my projects are helpful to you, you can help the author buy a cup of coffee to show your support!
+
+如果我的项目对您有帮助的话，那就请我喝杯咖啡吧！
+
+![alipay](/sponsors/alipay.png)
+
+![weixin](/sponsors/weixin.jpeg)
