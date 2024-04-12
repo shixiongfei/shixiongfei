@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://komarev.com/ghpvc/?username=shixiongfei" alt="shixiongfei" />
+
 <a href="https://github.com/shixiongfei">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shixiongfei&layout=compact&langs_count=8&theme=default" alt="Top Langs" width="335" height="190" />
 </a>
