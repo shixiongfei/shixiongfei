@@ -6,6 +6,10 @@
   </a>
 
   <a href="https://github.com/shixiongfei">
+    <img src="https://img.shields.io/github/followers/shixiongfei" alt="GitHub followers">
+  </a>
+
+  <a href="https://github.com/shixiongfei">
     <img src="https://img.shields.io/github/stars/shixiongfei" alt="GitHub User's stars">
   </a>
 </div>
