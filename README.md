@@ -16,8 +16,6 @@
   <a href="https://github.com/shixiongfei">
     <img src="https://img.shields.io/github/stars/shixiongfei" alt="GitHub User's stars">
   </a>
-
-  
 </div>
 
 <br />
