@@ -8,5 +8,5 @@
   <a href="https://github.com/sponsors/shixiongfei"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github"/></a>
 </div>
 
-| <a href="https://github.com/shixiongfei"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shixiongfei&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top Langs" width="335" height="190" /></a> | <a href="https://github.com/shixiongfei"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shixiongfei&count_private=true&show_icons=true&hide_border=true&theme=default" alt="Github stats" width="460" height="190" /></a> |
+| <a href="https://github.com/shixiongfei"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shixiongfei&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Langs" width="335" height="190" /></a> | <a href="https://github.com/shixiongfei"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shixiongfei&count_private=true&show_icons=true&hide_border=true&theme=transparent" alt="Github stats" width="460" height="190" /></a> |
 | ------------- | ------------- |
